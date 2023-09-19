@@ -1,0 +1,18 @@
+# #python Libraries
+numpy
+pandas
+scikit-learn
+Flask
+
+# Machine Learning Libraries
+tensorflow
+keras
+
+# Database Libraries
+sqlalchemy
+
+# Testing Libraries
+pytest
+
+# Other Libraries
+requests==2.26.0
